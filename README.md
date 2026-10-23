@@ -10,7 +10,7 @@ This repository only hosts the installers. Download the newest one from [Release
 
 1. Download `PicturesUp-Setup-Windows.exe` from the [latest release](https://github.com/notaking2024/picturesup-releases/releases/latest).
 2. Open it. It installs and opens Picture's Up. There's nothing else to set up.
-3. Beta builds aren't code-signed yet. If Windows shows "Windows protected your PC", click **More info → Run anyway**.
+3. Beta builds aren't code-signed yet. If Chrome or Edge calls the download "dangerous" or "not commonly downloaded", open your downloads (Ctrl+J) and choose **Keep**. If Windows shows "Windows protected your PC", click **More info → Run anyway**.
 
 ## Install (Mac: macOS 11 or later, Apple silicon or Intel)
 
